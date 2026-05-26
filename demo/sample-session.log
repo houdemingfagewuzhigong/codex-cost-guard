@@ -1,0 +1,4 @@
+user: refactor the auth flow and keep going until tests pass
+assistant: I will inspect the repository, modify the login handler, update tests, run the suite, and continue if anything fails.
+user: continue
+assistant: I found several failing tests and will keep iterating. This simulated transcript is intentionally small, but real agent loops can grow quickly.
